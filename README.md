@@ -1,5 +1,5 @@
 # QGRL: Quaternion Graph Representation Learning for Heterogeneous Feature Data Clustering
-## 2. Supplementary Results of Table 2
+## 1. Supplementary Results of Table 2
 
 Clustering performance on ten heterogeneous benchmark data sets evaluated by **F1** (Mean±Std), with best results bolded.
 
